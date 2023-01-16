@@ -28,15 +28,11 @@ header {
 	background-color: rgb(149, 149, 149);
 }
 
-#drivers > .card {
-	display: grid;
-}
-
 .card {
-	display: inline-flex;
+	display: grid;
 	border: 2px solid #000;
 	margin: 20px;
-	min-width: 300px;
+	width: 300px;
 }
 
 img {
