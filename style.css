@@ -1,0 +1,38 @@
+
+header {
+	background-color: #8e0000;
+	color: whitesmoke;	
+	width: 100%;
+	height: 200px;
+	position: relative;
+	text-align: center;
+	border: 1px solid #000;
+}
+
+#elements {
+	position: absolute;
+	bottom: 0;
+	display: inline-flex;
+}
+
+#elements > a {
+	margin: 15px;
+	text-decoration: none;
+	color: whitesmoke
+}
+
+#teams {
+	background-color: rgb(149, 149, 149);
+}
+
+.card {
+	border: 2px solid #000;
+	margin: 20px;
+	width: 300px;
+	display: inline-block;
+}
+
+img {
+	display: flex;	
+	margin: auto;
+}

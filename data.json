@@ -1,0 +1,76 @@
+[
+  {
+    "Teams": [
+      {
+			"id": 0,
+        "Name": "RedBull",
+        "Drivers": ["Max Verstappen", "Sergio Perez"],
+        "Img": "img/redbull.png",
+		  "Desc": "They didn’t quite seal a one-two in the drivers’ standings but Red Bull swept all else before them in 2022. Can they continue that form in 2023? Max Verstappen will be going all out for a hat-trick of titles, while Sergio Perez will be looking to better the two wins he managed in 2022."
+      },
+      {
+			"id": 1,
+        "Name": "Mercedes",
+        "Drivers": ["Lewis Hamilton", "George Russell"],
+        "Img": "img/mercedes.png",
+		  "Desc": "It’s more of the same at Mercedes as well, as the Silver Arrows look to bounce back from a disappointing campaign in 2022. It was the first season in his career that Hamilton failed to either get a pole or a victory, but Russell managed both and is well placed to build on that experience in 2023."
+      },
+		{
+			"id": 2,
+			"Name": "Ferrari",
+			"Drivers": ["Carlos Sainz", "Charles Leclerc"],
+			"Img": "img/ferrari.png",
+			"Desc": "Ferrari are continuing with the same line-up for a third straight season. They started well in 2022 before their challenge faded, but now have two proven race winners in their ranks thanks to Sainz’s 2022 triumph at Silverstone. Leclerc has made it clear that he expects to be in the hunt for the title again next year – but can Ferrari deliver another race-winning car?"
+		},
+		{
+			"id": 3,
+			"Name": "Mclaren",
+			"Drivers": ["Lando Norris", "Oscar Piastri"],
+			"Img": "img/mclaren.png",
+			"Desc": "Norris begins his fifth season at McLaren alongside a rookie in Piastri. The Australian is hot property, with McLaren securing his services over Alpine. Can the team fight their way back to the front of the midfield in 2023? Norris was the only driver outside the big three teams to score a podium in 2022 – and he’ll want more of those next season."
+		},
+		{
+			"id": 4,
+			"Name": "Alpine",
+			"Drivers": ["Pierre Gasly", "Esteban Ocon"],
+			"Img": "img/alpine.png",
+			"Desc": "Alonso has departed for pastures new, leaving Gasly to come into his seat at Alpine and join an all-French line-up alongside Ocon. Both drivers have won a race, and both could well be evenly matched, although Ocon will want to use his prior experience at the team to lead the charge. Alpine topped the midfield in 2022, and will expect that at the very minimum in 2023."
+		},
+		{
+			"id": 5,
+			"Name": "Aston Martin",
+			"Drivers": ["Lance Stroll", "Fernando Alonso"],
+			"Img": "img/astonmartin.png",
+			"Desc": "Stroll is still at Aston Martin, but has replaced one experienced team mate for another. The Canadian now has to go toe-to-toe with two-time world champion Alonso, who has swapped blue for green in 2023. Will the switch get the Spaniard back to the front of the field though, which is what he dearly craves."
+		},
+		{
+			"id": 6,
+			"Name": "Alpha Tauri",
+			"Drivers": ["Yuki Tsunoda", "Nyck de Vries"],
+			"Img": "img/Alpha Tauri.png",
+			"Desc": "It’s time for Tsunoda to step up as team leader in his third season in F1, with the experience of Gasly having left for Alpine. The Japanese racer is joined by a rookie in De Vries, who comes very highly rated from the Mercedes family. How those two get on against each other will be fascinating to watch – with AlphaTauri looking to improve on a slightly disappointing P9 championship finish."
+		},
+		{
+			"id": 7,
+			"Name": "Alfa Romeo",
+			"Drivers": ["Valterri Bottas", "Zhou Guanyu"],
+			"Img": "img/alfaromeo.png",
+			"Desc": "A strong start for Alfa Romeo in 2022 helped to net them sixth in the championship, despite running an all-new driver pairing. That duo continue for 2023, the experience of Bottas coupled with the exuberance of Zhou. Now the Chinese racer is no longer a rookie, can he kick on and start to match his team mate week in and week out?"
+		},
+		{
+			"id": 8,
+			"Name": "Haas",
+			"Drivers": ["Kevin Magnussen", "Nico Hulkenberg"],
+			"Img": "img/haas.png",
+			"Desc": "It’s a pairing that had many tongues wagging when first announced, with perennial ‘super sub’ Hulkenberg making a return to a full-time F1 drive after sitting out the past three seasons. He joins Magnussen at Haas, the Dane himself a bit of a comeback king. Haas are banking on experience to get them up the order in 2023, after managing to come home a much-improved eighth in 2022, with a pole position to their name to boot."
+		},
+		{
+			"id": 9,
+			"Name": "Williams",
+			"Drivers": ["Logan Sargeant", "Alex Albon"],
+			"Img": "img/williams.png",
+			"Desc": "Albon remains at Williams for 2023, but he has a new team mate to guide in the form of American rookie Sargeant, who got the nod after picking up the required number of Super Licence points with a stellar rookie performance in the F2 championship. Will the American manage to make the step up to Formula 1 seamlessly? Williams need him to, as they seek to avoid propping up the table once more."
+		}
+    ]
+  }
+]
