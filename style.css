@@ -1,3 +1,6 @@
+* {
+	box-sizing: border-box;
+}
 
 header {
 	background-color: #8e0000;
@@ -21,18 +24,26 @@ header {
 	color: whitesmoke
 }
 
-#teams {
+#teams, #drivers {
 	background-color: rgb(149, 149, 149);
 }
 
+#drivers > .card {
+	display: grid;
+}
+
 .card {
+	display: inline-flex;
 	border: 2px solid #000;
 	margin: 20px;
-	width: 300px;
-	display: inline-block;
+	min-width: 300px;
 }
 
 img {
 	display: flex;	
 	margin: auto;
+}
+
+.card > p {
+	margin: 15px;
 }
